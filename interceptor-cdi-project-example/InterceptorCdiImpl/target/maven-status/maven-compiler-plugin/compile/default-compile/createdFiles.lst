@@ -1,0 +1,9 @@
+br\com\eduardo\utils\TransactionFake.class
+br\com\eduardo\utils\WeldJUnit4Runner.class
+br\com\eduardo\services\external\ServiceExternalClassAnnotationsImpl.class
+br\com\eduardo\utils\Log.class
+br\com\eduardo\services\ServiceEncadeadoImpl.class
+br\com\eduardo\services\external\ServiceExternalMethodAnnotationsImpl.class
+br\com\eduardo\services\ServiceAnnotationsImpl.class
+br\com\eduardo\interceptor\interceptor\InterceptorImplementation.class
+br\com\eduardo\services\ServiceImpl.class
